@@ -9,6 +9,7 @@ const ll N = 1e5 + 5;
 void go()
 {
     cout<<"hello world"<<endl;
+    //from newdev101
 }
 int main()
 {
